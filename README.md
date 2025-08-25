@@ -1,2 +1,2 @@
-# graphics_turtle_py
-Using turtle, try to create a graphical illustration
+### graphics_turtle_py  
+    Using turtle, tried to create a graphical illustration in Python
